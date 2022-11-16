@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/70382084/import-error-force-text-from-django-utils-encoding
+refrence: https://dev.to/vaddimart/deploy-django-app-on-aws-lambda-using-serverless-part-1-1i90
